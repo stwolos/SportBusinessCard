@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SportBusinessCard</string>
+    <string name="photo_description">EyeCandy</string>
+    <string name="title">Final round of medieval fighting tournament</string>
+    <string name="text1">Come and see the full-contact fights of knights aspiring to the Polish National Team.</string>
+    <string name="address">Lady Sue Ryder\'s Social Primary School in Niepołomice, Poland.</string>
+    <string name="dateOf">Saturday, March 17th 2018, 10:00</string>
+    <string name="where">Where:</string>
+    <string name="when">When:</string>
+
+
+</resources>
